@@ -1,0 +1,2 @@
+JWT_SECRET='ittybittykitty'
+LOG_LEVEL=DEBUG
